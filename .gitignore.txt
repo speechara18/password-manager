@@ -1,0 +1,3 @@
+__pycache__/
+.env
+keyfile.key  # Prevents storing the encryption key in Git
